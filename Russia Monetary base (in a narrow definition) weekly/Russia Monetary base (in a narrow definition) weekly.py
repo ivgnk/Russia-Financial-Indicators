@@ -3,10 +3,7 @@ Input and visualisation from xlsx
 Russia Monetary base (in a narrow definition) weekly
 '''
 
-import os
-import numpy as np
 import pandas as pd
-from pandas.api.types import is_string_dtype
 import matplotlib.pyplot as plt
 
 the_title = 'Russia Monetary base (in a narrow definition) weekly'
@@ -34,14 +31,12 @@ col_name = [mb_DataFrame.columns[0], mb_DataFrame.columns[1]]
 mb_DataFrame[col_name[0]] = mb_DataFrame[col_name[0]].astype(str)
 # сменить тип ячеек столбца со строкового на дату https://stackoverflow.com/questions/17134716/convert-dataframe-column-type-from-string-to-datetime
 mb_DataFrame[col_name[0]] = pd.to_datetime(mb_DataFrame[col_name[0]], format="%Y-%m-%d")
-x = mb_DataFrame[col_name[0]];
+x = mb_DataFrame[col_name[0]]
 y = mb_DataFrame[col_name[1]]
 
 fig, ax = plt.subplots(figsize=(10, 8))
-# ax.xaxis.set_major_locator(plt.MultipleLocator(2))
 plt.title(the_title)
 plt.plot(x,y)
-plt.xlabel(col_name[0])
-plt.ylabel(col_name[1])
+plt.xlabel(col_name[0]); plt.ylabel(col_name[1])
 plt.grid()
 plt.show()
