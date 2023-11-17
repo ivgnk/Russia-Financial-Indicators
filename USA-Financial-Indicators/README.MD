@@ -7,12 +7,10 @@ From 2009
 ![Effective Federal Funds Rate From 2009](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bv4s)
 
       
-**St. Louis Adjusted Monetary** Base https://research.stlouisfed.org/fred2/series/BASE                
-From 2009
-![St. Louis Adjusted Monetary Base](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bv3w)
-      
 **Monetary Base; Total** https://research.stlouisfed.org/fred2/series/BOGMBASE                   
-
+From 2009
+![St. Louis Adjusted Monetary Base](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bv8o)
+      
 **M2 Money Stock** https://research.stlouisfed.org/fred2/series/M2                       
 From 2019
 ![M2 Money Stock](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bv45)                   
