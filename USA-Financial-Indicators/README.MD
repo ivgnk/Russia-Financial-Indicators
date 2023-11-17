@@ -31,10 +31,10 @@ Major World IndicesAdd to your site http://www.investing.com/indices/major-indic
 ### Youtube
 ![#00ff00](https://placehold.co/15x15/00ff00/00ff00.png) **[How the Fed creates liquidity (in Russian)](https://www.youtube.com/watch?v=cOWLf-Vdhmw&t=1980s)**
 
-### Github
-![#00ff00](https://placehold.co/15x15/00ff00/00ff00.png) **https://github.com/dharmatech?tab=repositories**
-**https://github.com/dharmatech/net-liquidity.ps1**
+### Github                
+![#00ff00](https://placehold.co/15x15/00ff00/00ff00.png) **https://github.com/dharmatech?tab=repositories**                    
+**https://github.com/dharmatech/net-liquidity.ps1**                     
 
-### Telegram
+### Telegram        
 https://t.me/spydell_finance          
 17.11.2023 https://t.me/spydell_finance/4493             
