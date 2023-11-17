@@ -26,6 +26,9 @@ https://www.bea.gov
 ## Exchanges
 Major World IndicesAdd to your site http://www.investing.com/indices/major-indices             
 
+S&P 500 http://ru.investing.com/indices/us-spx-500                
+Components S&P 500 http://ru.investing.com/indices/us-spx-500-components              
+
 ## Social networks, blogs
 
 ### Youtube
