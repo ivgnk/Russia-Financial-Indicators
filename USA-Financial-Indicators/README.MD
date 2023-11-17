@@ -20,6 +20,9 @@ From 2019
 Major foreign holders of treasury securities (curreent) http://ticdata.treasury.gov/Publish/mfh.txt                       
 Major foreign holders of treasury securities (from 2000 г.) http://www.treasury.gov/resource-center/data-chart-center/tic/Documents/mfhhis01.txt
 
+## Bureau of Economic Analysis                  
+https://www.bea.gov             
+
 ## Exchanges
 Major World IndicesAdd to your site http://www.investing.com/indices/major-indices             
 
