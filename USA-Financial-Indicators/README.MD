@@ -1,5 +1,7 @@
 ## FED
-Effective Federal Funds Rate https://fred.stlouisfed.org/series/FEDFUNDS              
+Effective Federal Funds Rate https://fred.stlouisfed.org/series/FEDFUNDS             
+![Effective Federal Funds Rate](https://fred.stlouisfed.org/graph/fredgraph.png?g=1aSO3)
+
 St. Louis Adjusted Monetary Base https://research.stlouisfed.org/fred2/series/BASE                
 Monetary Base; Total https://research.stlouisfed.org/fred2/series/BOGMBASE                   
 M2 Money Stock https://research.stlouisfed.org/fred2/series/M2                       
