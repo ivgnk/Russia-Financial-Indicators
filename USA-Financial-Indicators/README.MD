@@ -29,7 +29,7 @@ Major World IndicesAdd to your site http://www.investing.com/indices/major-indic
 ## Social networks, blogs
 
 ### Youtube
- **[How the Fed creates liquidity (in Russian)](https://www.youtube.com/watch?v=cOWLf-Vdhmw&t=1980s)**
+![#00ff00](https://placehold.co/15x15/00ff00/00ff00.png) **[How the Fed creates liquidity (in Russian)](https://www.youtube.com/watch?v=cOWLf-Vdhmw&t=1980s)**
 
 ### Telegram
 https://t.me/spydell_finance          
