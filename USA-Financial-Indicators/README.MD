@@ -29,6 +29,10 @@ Major World IndicesAdd to your site http://www.investing.com/indices/major-indic
 S&P 500 http://ru.investing.com/indices/us-spx-500                
 Components S&P 500 http://ru.investing.com/indices/us-spx-500-components              
 
+World Markets http://www.advisorperspectives.com/dshort/updates/World-Market-Snapshot.php                   
+S&P 500 Snapshot http://www.advisorperspectives.com/dshort/updates/Current-Market-Snapshot.php                   
+            
+
 ## Social networks, blogs
 ### Sites & Blogs     
 https://www.advisorperspectives.com/dshort                 
