@@ -30,7 +30,12 @@ S&P 500 http://ru.investing.com/indices/us-spx-500
 Components S&P 500 http://ru.investing.com/indices/us-spx-500-components              
 
 ## Social networks, blogs
+### Sites & Blogs     
+https://www.advisorperspectives.com/dshort
+https://ritholtz.com
+https://www.linkedin.com/in/edward-yardeni/detail/recent-activity
 
+   
 ### Youtube
 ![#00ff00](https://placehold.co/15x15/00ff00/00ff00.png) **[How the Fed creates liquidity (in Russian)](https://www.youtube.com/watch?v=cOWLf-Vdhmw&t=1980s)**
 
