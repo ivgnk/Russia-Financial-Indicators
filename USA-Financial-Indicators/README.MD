@@ -8,7 +8,8 @@ From 2009
 
       
 **St. Louis Adjusted Monetary** Base https://research.stlouisfed.org/fred2/series/BASE                
-![St. Louis Adjusted Monetary Base](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bv2G)
+From 2009
+![St. Louis Adjusted Monetary Base](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bv3w)
       
 **Monetary Base; Total** https://research.stlouisfed.org/fred2/series/BOGMBASE                   
 
