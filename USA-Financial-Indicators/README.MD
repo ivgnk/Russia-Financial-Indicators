@@ -31,9 +31,9 @@ Components S&P 500 http://ru.investing.com/indices/us-spx-500-components
 
 ## Social networks, blogs
 ### Sites & Blogs     
-https://www.advisorperspectives.com/dshort
-https://ritholtz.com
-https://www.linkedin.com/in/edward-yardeni/detail/recent-activity
+https://www.advisorperspectives.com/dshort                 
+https://ritholtz.com                      
+https://www.linkedin.com/in/edward-yardeni/detail/recent-activity              
 
    
 ### Youtube
