@@ -11,9 +11,9 @@ From 2009
 From 2009
 ![St. Louis Adjusted Monetary Base](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bv8o)
       
-**M2 Money Stock** https://research.stlouisfed.org/fred2/series/M2                       
+**M2** hhttps://fred.stlouisfed.org/series/M2SL
 From 2019
-![M2 Money Stock](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bv45)                   
+![M2](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bv8t)                   
 
 ## Government
 ### Treasury
