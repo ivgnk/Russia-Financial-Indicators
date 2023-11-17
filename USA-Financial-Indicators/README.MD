@@ -1,6 +1,8 @@
 ## FED
 Effective Federal Funds Rate https://fred.stlouisfed.org/series/FEDFUNDS             
-![Effective Federal Funds Rate](https://fred.stlouisfed.org/graph/fredgraph.png?g=1aSO3)
+![Total Effective Federal Funds Rate](https://fred.stlouisfed.org/graph/fredgraph.png?g=1aSO3)
+
+![Effective Federal Funds Rate From 2009](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bv3w)
 
       
 St. Louis Adjusted Monetary Base https://research.stlouisfed.org/fred2/series/BASE                
