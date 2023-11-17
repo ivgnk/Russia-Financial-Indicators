@@ -33,7 +33,9 @@ Major World IndicesAdd to your site http://www.investing.com/indices/major-indic
 
 ### Github                
 ![#00ff00](https://placehold.co/15x15/00ff00/00ff00.png) **https://github.com/dharmatech?tab=repositories**                    
+
 **https://github.com/dharmatech/net-liquidity.ps1**                     
+**Net Liquidity = Federal Reserve Balance sheet - Treasury General Account - Reverse Repo**
 
 ### Telegram        
 https://t.me/spydell_finance          
