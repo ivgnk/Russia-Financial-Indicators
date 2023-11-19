@@ -42,7 +42,8 @@ S&P 500 Snapshot http://www.advisorperspectives.com/dshort/updates/Current-Marke
 **[Anti-gold indicator](https://iv-g.livejournal.com/1460002.html)**  https://fred.stlouisfed.org/graph/?g=RAYH
 ![Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed  - Import Price Index (End Use): Nonmonetary Gold](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bzV7)
 
-
+**[Export Price Index (End Use): Nonmonetary Gold + Global price of Copper + Global price of Aluminum](https://fred.stlouisfed.org/series/IQ12260)**
+![Export Price Index (End Use): Nonmonetary Gold + Global price of Copper + Global price of Aluminum](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bzW5)
 
 ## Social networks, blogs
 ### Sites & Blogs     
