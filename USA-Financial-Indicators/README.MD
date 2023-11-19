@@ -48,7 +48,7 @@ S&P 500 Snapshot http://www.advisorperspectives.com/dshort/updates/Current-Marke
 ![Export Price Index (End Use): Nonmonetary Gold  + Crude Oil Prices: Brent - Europe](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bzXD)         
 
 ### Precious metals
-**[CBOE Gold ETF Volatility Index](https://fred.stlouisfed.org/series/GVZCLS)**                     
+**[CBOE Gold ETF Volatility Index](https://fred.stlouisfed.org/graph/?g=1bzVn)**                     
 ![CBOE Gold ETF Volatility Index](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bzVn)               
 
 **[Anti-gold indicator](https://iv-g.livejournal.com/1460002.html)**  https://fred.stlouisfed.org/graph/?g=RAYH                         
