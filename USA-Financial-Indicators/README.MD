@@ -85,6 +85,10 @@ https://www.linkedin.com/in/edward-yardeni/detail/recent-activity
 **[Change Monetary aggregates + SP500 vs Bitcoin](https://fred.stlouisfed.org/graph/?g=1bAtn)**
 ![Change Monetary aggregates + SP500 vs Bitcoin](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bAtn)
 
+**[Change Monetary aggregates2 + SP500 vs Bitcoin](https://fred.stlouisfed.org/graph/?g=1bAoz)**
+![Change Monetary aggregates2 + SP500 vs Bitcoin](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bAoz)
+
+
 ### Telegram        
 https://t.me/spydell_finance          
 17.11.2023 https://t.me/spydell_finance/4493             
