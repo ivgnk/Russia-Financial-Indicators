@@ -76,6 +76,9 @@ https://www.linkedin.com/in/edward-yardeni/detail/recent-activity
 **https://github.com/dharmatech/net-liquidity.ps1**                     
 **Net Liquidity = Federal Reserve Balance sheet - Treasury General Account - Reverse Repo**
 
+[Net Liquidity1](https://fred.stlouisfed.org/graph/?g=1bAq9)
+![Net Liquidity1 = WALCL - RRPONTSYD](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bAq9)
+
 ### Telegram        
 https://t.me/spydell_finance          
 17.11.2023 https://t.me/spydell_finance/4493             
