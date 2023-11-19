@@ -40,6 +40,9 @@ S&P 500 Snapshot http://www.advisorperspectives.com/dshort/updates/Current-Marke
 ![Personal Saving Rate (PSAVERT)](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bzYB)                      
 
 ## Commodities
+**[Producer Price Index by Commodity: All Commodities + Import Price Index (End Use): Nonmonetary Gold  + Global price of Brent Crude](https://fred.stlouisfed.org/graph/?g=1bAoz)
+![Producer Price Index by Commodity: All Commodities + Import Price Index (End Use): Nonmonetary Gold  + Global price of Brent Crude](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bAoz)
+
 
 **[Export Price Index (End Use): Nonmonetary Gold  + Crude Oil Prices: Brent - Europe](https://fred.stlouisfed.org/series/IQ12260)**              
 ![Export Price Index (End Use): Nonmonetary Gold  + Crude Oil Prices: Brent - Europe](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bzXD)         
