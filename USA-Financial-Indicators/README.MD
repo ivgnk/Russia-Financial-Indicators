@@ -79,6 +79,9 @@ https://www.linkedin.com/in/edward-yardeni/detail/recent-activity
 [Net Liquidity?](https://fred.stlouisfed.org/graph/?g=1bAqr)
 ![Net Liquidity? = WALCL - RRPONTSYD - WOFDRBTHL](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bAqr)
 
+**[Federal Reserve Balance sheet](https://fred.stlouisfed.org/graph/?g=1bArW)**                   
+![[Federal Reserve Balance sheet]](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bArW)                
+
 ### Telegram        
 https://t.me/spydell_finance          
 17.11.2023 https://t.me/spydell_finance/4493             
