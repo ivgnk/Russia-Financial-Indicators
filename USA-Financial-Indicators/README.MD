@@ -50,7 +50,10 @@ S&P 500 Snapshot http://www.advisorperspectives.com/dshort/updates/Current-Marke
 
 **[Export Price Index (End Use): Nonmonetary Gold + Global price of Copper + Global price of Aluminum](https://fred.stlouisfed.org/series/IQ12260)**
 ![Export Price Index (End Use): Nonmonetary Gold + Global price of Copper + Global price of Aluminum](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bzW5)
-
+          
+**[Coinbase Bitcoin/change from years ago + Export Price Index (End Use): Nonmonetary Gold/change from years ago](https://fred.stlouisfed.org/series/PSAVERT)**            
+![Coinbase Bitcoin/change from years ago + Export Price Index (End Use): Nonmonetary Gold/change from years ago](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bzYu)                
+                    
 ## Social networks, blogs
 ### Sites & Blogs     
 https://www.advisorperspectives.com/dshort                 
