@@ -35,6 +35,9 @@ S&P 500 Snapshot http://www.advisorperspectives.com/dshort/updates/Current-Marke
 ## Non-Financial
 
 ## Commodities
+**[CBOE Gold ETF Volatility Index](https://fred.stlouisfed.org/series/GVZCLS)**
+![CBOE Gold ETF Volatility Index](CBOE Gold ETF Volatility Index)
+
 **[Anti-gold indicator](https://iv-g.livejournal.com/1460002.html)**  https://fred.stlouisfed.org/graph/?g=RAYH
 ![Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed  - Import Price Index (End Use): Nonmonetary Gold](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bzV7)
 
