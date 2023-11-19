@@ -82,8 +82,8 @@ https://www.linkedin.com/in/edward-yardeni/detail/recent-activity
 **[Federal Reserve Balance sheet](https://fred.stlouisfed.org/graph/?g=1bArW)**                   
 ![[Federal Reserve Balance sheet]](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bArW)                
 
-**[Change Monetary aggregates + SP500 vs Bitcoin](https://fred.stlouisfed.org/graph/?g=1bAtb)**
-![Change Monetary aggregates + SP500 vs Bitcoin](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bAtb)
+**[Change Monetary aggregates + SP500 vs Bitcoin](https://fred.stlouisfed.org/graph/?g=1bAtn)**
+![Change Monetary aggregates + SP500 vs Bitcoin](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bAtn)
 
 ### Telegram        
 https://t.me/spydell_finance          
