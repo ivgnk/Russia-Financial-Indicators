@@ -34,7 +34,7 @@ S&P 500 Snapshot http://www.advisorperspectives.com/dshort/updates/Current-Marke
             
 ## Non-Financial                    
 **[Personal Saving Rate (PSAVERT)](https://fred.stlouisfed.org/series/PSAVERT)**                      
-![Personal Saving Rate (PSAVERT)](Personal Saving Rate (PSAVERT))                      
+![Personal Saving Rate (PSAVERT)](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bzYB)                      
 
 ## Commodities
 
