@@ -11,7 +11,7 @@ From 2009
 From 2009
 ![St. Louis Adjusted Monetary Base](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bv8o)
       
-**M2** hhttps://fred.stlouisfed.org/series/M2SL
+**M2** https://fred.stlouisfed.org/series/M2SL
 From 2019
 ![M2](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bv8t)                   
 
@@ -32,7 +32,9 @@ Components S&P 500 http://ru.investing.com/indices/us-spx-500-components
 World Markets http://www.advisorperspectives.com/dshort/updates/World-Market-Snapshot.php                   
 S&P 500 Snapshot http://www.advisorperspectives.com/dshort/updates/Current-Market-Snapshot.php                   
             
-## Non-Financial
+## Non-Financial                    
+**[Personal Saving Rate (PSAVERT)](https://fred.stlouisfed.org/series/PSAVERT)**                      
+![Personal Saving Rate (PSAVERT)](Personal Saving Rate (PSAVERT))                      
 
 ## Commodities
 
