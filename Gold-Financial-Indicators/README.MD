@@ -1,7 +1,8 @@
 # Gold-Financial-Indicators
 
 ## Industry        
-[Mining, Quarrying, and Oil and Gas Extraction: Gold Ore and Silver Ore Mining. The industrial production (IP) index measures the real output of all relevant establishments located in the United States](https://fred.stlouisfed.org/graph/?g=1bMru)         
+[Mining, Quarrying, and Oil and Gas Extraction: Gold Ore and Silver Ore Mining.                               
+The industrial production (IP) index measures the real output of all relevant establishments located in the United States](https://fred.stlouisfed.org/graph/?g=1bMru)         
 ![Mining, Quarrying, and Oil and Gas Extraction: Gold Ore and Silver Ore Mining](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bMru)
 
 ## Financial
