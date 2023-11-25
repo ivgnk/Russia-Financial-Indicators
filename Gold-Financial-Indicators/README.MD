@@ -1,5 +1,17 @@
 # Gold-Financial-Indicators
 
+## Gold in GitHub
+**[Search: Gold data](https://github.com/search?q=Gold+data&type=repositories)**       
+              
+**[Curated Core Datasets](https://github.com/datasets)**                  
+**[Curated Core Datasets: Monthly gold prices since 1950 in USD (London market). Data is sourced from the Bundesbank](https://github.com/datasets/gold-prices)**            
+
+2023 [Gold-Price-Prediction-LSTM](https://github.com/FarzadNekouee/Gold-Price-Prediction-LSTM), 2013-2023                                  
+
+2023 [Gold Price Forecasting](https://github.com/yennhi95zz/predict-gold-prices), 1950-2020              
+2019 [Gold](https://github.com/syyunn/gold), 1979-2019                      
+
+
 ## Gold in FRED            
 [Gold in FRED](https://fred.stlouisfed.org/searchresults/?st=Gold)                 
 
@@ -38,17 +50,6 @@ The industrial production (IP) index measures the real output of all relevant es
 ## Gold in World Gold Council              
 **[Gold in World Gold Council](https://www.gold.org/goldhub/data)**                
        
-## Gold in GitHub
-**[Search: Gold data](https://github.com/search?q=Gold+data&type=repositories)**       
-              
-**[Curated Core Datasets](https://github.com/datasets)**                  
-**[Curated Core Datasets: Monthly gold prices since 1950 in USD (London market). Data is sourced from the Bundesbank](https://github.com/datasets/gold-prices)**            
-
-2023 [Gold-Price-Prediction-LSTM](https://github.com/FarzadNekouee/Gold-Price-Prediction-LSTM), 2013-2023                                  
-
-2023 [Gold Price Forecasting](https://github.com/yennhi95zz/predict-gold-prices), 1950-2020              
-2019 [Gold](https://github.com/syyunn/gold), 1979-2019                      
-
 ## Others            
 [Kaggle Dataset: Monthly Gold Price](https://www.kaggle.com/datasets/nhiyen/monthly-gold-price)                       
 
