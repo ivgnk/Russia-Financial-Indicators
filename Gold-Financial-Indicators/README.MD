@@ -5,6 +5,9 @@
 The industrial production (IP) index measures the real output of all relevant establishments located in the United States](https://fred.stlouisfed.org/graph/?g=1bMru)         
 ![Mining, Quarrying, and Oil and Gas Extraction: Gold Ore and Silver Ore Mining](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bMru)
 
+[Exports of Goods: Nonmonetary gold (IEAXGG)](https://fred.stlouisfed.org/graph/?g=1bMrW)
+![Exports of Goods: Nonmonetary gold (IEAXGG)](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bMrW)
+
 ## Financial
 **[Anti-gold indicator](https://iv-g.livejournal.com/1460002.html)**  https://fred.stlouisfed.org/graph/?g=1bzV7                         
 ![Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed  - Import Price Index (End Use): Nonmonetary Gold](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bzV7)                                 
