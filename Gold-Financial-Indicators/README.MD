@@ -1,7 +1,7 @@
 # Gold-Financial-Indicators
 
-##
-[Gold in FRED](https://fred.stlouisfed.org/searchresults/?st=Gold)
+## Gold in FRED            
+[Gold in FRED](https://fred.stlouisfed.org/searchresults/?st=Gold)                 
 
 ### Industry        
 [Mining, Quarrying, and Oil and Gas Extraction: Gold Ore and Silver Ore Mining.                               
