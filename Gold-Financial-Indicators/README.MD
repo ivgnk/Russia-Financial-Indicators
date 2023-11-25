@@ -2,6 +2,7 @@
 
 ## Gold in GitHub
 **[Search: Gold data](https://github.com/search?q=Gold+data&type=repositories)**       
+**[Search: Gold price](https://github.com/search?q=Gold+price&type=repositories)**       
               
 **[Curated Core Datasets](https://github.com/datasets)**                  
 **[Curated Core Datasets: Monthly gold prices since 1950 in USD (London market). Data is sourced from the Bundesbank](https://github.com/datasets/gold-prices)**            
