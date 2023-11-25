@@ -34,3 +34,7 @@ The industrial production (IP) index measures the real output of all relevant es
 #**[Coinbase Bitcoin/change from years ago + Export Price Index (End Use): Nonmonetary Gold/change from years ago](https://fred.stlouisfed.org/graph/?g=1bzYu)**            
 ![Coinbase Bitcoin/change from years ago + Export Price Index (End Use): Nonmonetary Gold/change from years ago](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bzYu)                
 
+
+## Gold in World Gold Council              
+**[Gold in World Gold Council](https://www.gold.org/goldhub/data)**                
+       
