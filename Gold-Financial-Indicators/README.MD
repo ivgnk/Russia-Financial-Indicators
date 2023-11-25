@@ -44,7 +44,9 @@ The industrial production (IP) index measures the real output of all relevant es
 **[Curated Core Datasets](https://github.com/datasets)**                  
 **[Curated Core Datasets: Monthly gold prices since 1950 in USD (London market). Data is sourced from the Bundesbank](https://github.com/datasets/gold-prices)**            
 
-2023 [Gold Price Forecasting](https://github.com/yennhi95zz/predict-gold-prices)                     
+2023 [Gold-Price-Prediction-LSTM](https://github.com/FarzadNekouee/Gold-Price-Prediction-LSTM), 2013-2023                  
+
+2023 [Gold Price Forecasting](https://github.com/yennhi95zz/predict-gold-prices),  1950-2020
 2019 [Gold](https://github.com/syyunn/gold)            
 
 ## Others            
