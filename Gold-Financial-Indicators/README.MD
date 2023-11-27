@@ -43,9 +43,15 @@ The industrial production (IP) index measures the real output of all relevant es
 **[CBOE Gold ETF Volatility Index](https://fred.stlouisfed.org/graph/?g=1bzVn)**                     
 ![CBOE Gold ETF Volatility Index](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bzVn)               
 
-### Gold from 2020
+### Gold from 
+2020
 [Gold from 2020](https://fred.stlouisfed.org/graph/?g=1bQIH)                 
 ![Gold from 2020](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bQIH)
+
+2022-09
+[Gold from 2022-09](https://fred.stlouisfed.org/graph/?g=1bQJo)                 
+![Gold from 2022-09](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bQJo)
+
 
 ## Cryptocurrencies
 **[Coinbase Bitcoin/change from years ago + Export Price Index (End Use): Nonmonetary Gold/change from years ago](https://fred.stlouisfed.org/graph/?g=1bzYu)**            
