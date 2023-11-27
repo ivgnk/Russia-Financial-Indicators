@@ -49,8 +49,8 @@ The industrial production (IP) index measures the real output of all relevant es
 ![Gold from 2020](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bQLE)
 
 2022-09
-[Gold from 2022-09](https://fred.stlouisfed.org/graph/?g=1bQKf)                 
-![Gold from 2022-09](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bQKf)
+[Gold from 2022-09](https://fred.stlouisfed.org/graph/?g=1bQLL)                 
+![Gold from 2022-09](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bQLL)
 
 
 ## Cryptocurrencies
