@@ -46,7 +46,7 @@ The industrial production (IP) index measures the real output of all relevant es
 ### Gold from 
 2020
 [Gold from 2020](https://fred.stlouisfed.org/graph/?g=1bQLa)                 
-<img src="https://fred.stlouisfed.org/graph/fredgraph.png?g=1bQLa">
+<img src="https://fred.stlouisfed.org/graph/fredgraph.png?g=1bQLa" height = "700">
 
 - - -
 ![Gold from 2020](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bQLa)
