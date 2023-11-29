@@ -37,7 +37,11 @@ S&P 500 Snapshot http://www.advisorperspectives.com/dshort/updates/Current-Marke
 
 **[U.S. Dollar Index](https://fred.stlouisfed.org/graph/?g=1bVcv)**                  
 ![U.S. Dollar Index](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bVcv)          
-              
+
+**[U.S. Dollar Index from 2020](https://fred.stlouisfed.org/graph/?g=1bVdo)**                  
+![U.S. Dollar Index  from 2020](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bVdo)          
+
+
 ## Non-Financial                    
 **[Personal Saving Rate (PSAVERT)](https://fred.stlouisfed.org/graph/?g=1bzYB)**                      
 ![Personal Saving Rate (PSAVERT)](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bzYB)                      
