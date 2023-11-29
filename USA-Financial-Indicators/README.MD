@@ -35,6 +35,9 @@ S&P 500 Snapshot http://www.advisorperspectives.com/dshort/updates/Current-Marke
 **[Coinbase Bitcoin  (CBBTCUSD) + S&P 500  (SP500)](https://fred.stlouisfed.org/graph/?g=1bA0G)**
 ![Coinbase Bitcoin  (CBBTCUSD) + S&P 500  (SP500)](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bA0G)
 
+**[U.S. Dollar Index](https://fred.stlouisfed.org/graph/?g=1bVaZ)**                  
+![U.S. Dollar Index](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bVaZ)**           
+              
 ## Non-Financial                    
 **[Personal Saving Rate (PSAVERT)](https://fred.stlouisfed.org/graph/?g=1bzYB)**                      
 ![Personal Saving Rate (PSAVERT)](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bzYB)                      
