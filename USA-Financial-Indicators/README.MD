@@ -32,6 +32,10 @@ Components S&P 500 http://ru.investing.com/indices/us-spx-500-components
 World Markets http://www.advisorperspectives.com/dshort/updates/World-Market-Snapshot.php                   
 S&P 500 Snapshot http://www.advisorperspectives.com/dshort/updates/Current-Market-Snapshot.php                   
 
+[NASDAQ 100 Index (NASDAQ100) & Federal Funds Effective Rate (FEDFUNDS)](https://fred.stlouisfed.org/graph/?g=1c198)                
+![NASDAQ 100 Index (NASDAQ100) & Federal Funds Effective Rate (FEDFUNDS)](https://fred.stlouisfed.org/graph/fredgraph.png?g=1c198)
+
+
 **[Coinbase Bitcoin  (CBBTCUSD) + S&P 500  (SP500)](https://fred.stlouisfed.org/graph/?g=1bA0G)**
 ![Coinbase Bitcoin  (CBBTCUSD) + S&P 500  (SP500)](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bA0G)
 
