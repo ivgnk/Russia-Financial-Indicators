@@ -15,6 +15,9 @@ From 2009
 ![Federal Debt, Federal Debt Held by Foreign and International Investors, Federal Debt Held by Federal Reserve Banks](https://fred.stlouisfed.org/graph/fredgraph.png?g=1cg3d)             
 
 [Federal Debt Held by the Public as Percent of Gross Domestic Product (FYGFGDQ188S)](https://fred.stlouisfed.org/series/FYGFGDQ188S)              
-![Federal Debt Held by the Public as Percent of Gross Domestic Product](https://fred.stlouisfed.org/graph/fredgraph.png?g=1cg3D)  
+![Federal Debt Held by the Public as Percent of Gross Domestic Product](https://fred.stlouisfed.org/graph/fredgraph.png?g=1cg3D)         
+
+[Gross Federal Debt as Percent of Gross Domestic Product (GFDGDPA188S)](https://fred.stlouisfed.org/series/GFDGDPA188S)            
+![Gross Federal Debt as Percent of Gross Domestic Product](https://fred.stlouisfed.org/graph/fredgraph.png?g=19DJn)                                 
 
 
