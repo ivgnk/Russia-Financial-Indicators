@@ -25,6 +25,10 @@ The industrial production (IP) index measures the real output of all relevant es
 ![Exports of Goods: Nonmonetary gold (IEAXGG)](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bMrW)
 
 ### Financial
+[Monetary Base; Total (BOGMBASE) + Import Price Index (End Use): Nonmonetary Gold  (IR14270)](https://fred.stlouisfed.org/graph/?g=1cgMY)              
+![Monetary Base; Total (BOGMBASE) + Import Price Index (End Use): Nonmonetary Gold  (IR14270)](https://fred.stlouisfed.org/graph/fredgraph.png?g=1cgMY)              
+
+
 **[Anti-gold indicator](https://iv-g.livejournal.com/1460002.html)**  https://fred.stlouisfed.org/graph/?g=1bzV7                         
 ![Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed  - Import Price Index (End Use): Nonmonetary Gold](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bzV7)                                 
 
