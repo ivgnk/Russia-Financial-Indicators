@@ -19,5 +19,7 @@ From 2009
 
 [Gross Federal Debt as Percent of Gross Domestic Product (GFDGDPA188S)](https://fred.stlouisfed.org/series/GFDGDPA188S)            
 ![Gross Federal Debt as Percent of Gross Domestic Product](https://fred.stlouisfed.org/graph/fredgraph.png?g=19DJn)                                 
-
+            
+[Federal government current expenditures: Interest payments (A091RC1Q027SBEA)](https://fred.stlouisfed.org/series/A091RC1Q027SBEA)                 
+![Federal government current expenditures: Interest payments](https://fred.stlouisfed.org/graph/fredgraph.png?g=1aKpo)           
 
