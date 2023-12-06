@@ -1,6 +1,10 @@
 # Bonds & debt: data and calculations         
 
 ## USA      
+[Federal government current expenditures: Interest payments + Federal Funds Effective Rate + Federal Debt: Total Public Debt + Federal Debt Held by the Public as Percent of Gross Domestic Product](https://fred.stlouisfed.org/graph/?g=1cg5f)
+![Federal government current expenditures: Interest payments + Federal Funds Effective Rate + Federal Debt: Total Public Debt + Federal Debt Held by the Public as Percent of Gross Domestic Product](https://fred.stlouisfed.org/graph/fredgraph.png?g=1cg5f)
+
+
 **Effective Federal Funds Rate** https://fred.stlouisfed.org/series/FEDFUNDS           
 Total        
 ![Total Effective Federal Funds Rate](https://fred.stlouisfed.org/graph/fredgraph.png?g=1aSO3)
