@@ -1,4 +1,4 @@
-# Bonds data and calculations         
+# Bonds & debt: data and calculations         
 
 ## USA      
 **Effective Federal Funds Rate** https://fred.stlouisfed.org/series/FEDFUNDS           
@@ -10,4 +10,6 @@ From 2009
            
 [FOMC Summary of Economic Projections for the Fed Funds Rate, Median (FEDTARMD)](https://fred.stlouisfed.org/series/FEDTARMD)                       
 ![ FOMC Summary of Economic Projections for the Fed Funds Rate, Median (FEDTARMD)](https://fred.stlouisfed.org/graph/fredgraph.png?g=19eoE)              
-
+          
+[Federal Debt, Federal Debt Held by Foreign and International Investors, Federal Debt Held by Federal Reserve Banks](https://fred.stlouisfed.org/graph/?g=1cg3d)           
+![Federal Debt, Federal Debt Held by Foreign and International Investors, Federal Debt Held by Federal Reserve Banks](https://fred.stlouisfed.org/graph/fredgraph.png?g=1cg3d) 
