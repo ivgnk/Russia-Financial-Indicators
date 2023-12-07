@@ -6,6 +6,8 @@ Federal Reserve Balance sheet (from 2002-12-18)
 ![Assets: Total Assets: Total Assets (Less Eliminations from Consolidation): Wednesday Level (WALCL)](https://fred.stlouisfed.org/graph/fredgraph.png?g=1c5VA)           
 
 ## UK 
+**[The FRED® Blog: Central banking since 1701: Three centuries of Bank of England asset data](https://fredblog.stlouisfed.org/2020/02/central-banking-since-1701/)**                    
+
 [BoE research datasets](https://www.bankofengland.co.uk/statistics/research-datasets)               
 
 from 1701-01-01                            
