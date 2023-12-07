@@ -6,6 +6,9 @@ Federal Reserve Balance sheet (from 2002-12-18)
 [Assets: Total Assets: Total Assets (Less Eliminations from Consolidation): Wednesday Level (WALCL)](https://fred.stlouisfed.org/series/WALCL)           
 ![Assets: Total Assets: Total Assets (Less Eliminations from Consolidation): Wednesday Level (WALCL)](https://fred.stlouisfed.org/graph/fredgraph.png?g=1c5VA)           
 
+## Canada
+Bank of Canada assets and liabilities: Weekly(https://www.bankofcanada.ca/rates/banking-and-financial-statistics/bank-of-canada-assets-and-liabilities-weekly-formerly-b2/)           
+
 ## Euro Area
 [Central Bank Assets for Euro Area (11-19 Countries) (ECBASSETSW)](https://fred.stlouisfed.org/series/ECBASSETSW)            
 ![Central Bank Assets for Euro Area (11-19 Countries)](https://fred.stlouisfed.org/graph/fredgraph.png?g=1cjJd)             
