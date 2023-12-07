@@ -9,6 +9,9 @@ Federal Reserve Balance sheet (from 2002-12-18)
 [Bank of Japan: Total Assets for Japan](https://fred.stlouisfed.org/series/JPNASSETS)                
 ![Bank of Japan: Total Assets for Japan](https://fred.stlouisfed.org/graph/fredgraph.png?g=1cjHi)                
 
+[Bank of Japan: Total Assets for Japan in Yen (JPNASSETS)+ Japanese Yen to U.S. Dollar Spot Exchange Rate (DEXJPUS)+ Total Assets for Japan in USD](https://fred.stlouisfed.org/graph/?g=1cjIm)                    
+![Bank of Japan: Total Assets for Japan in Yen (JPNASSETS)+ Japanese Yen to U.S. Dollar Spot Exchange Rate (DEXJPUS)+ Total Assets for Japan in USD](https://fred.stlouisfed.org/graph/fredgraph.png?g=1cjIm)          
+
 ## Switzerland
 **[Balance of the Remaining Balance Sheet Positions of Swiss National Bank (SNBREMBALPOS)](https://fred.stlouisfed.org/series/SNBREMBALPOS)**        
 from 1975-01-01
