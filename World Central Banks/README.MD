@@ -5,6 +5,10 @@ Federal Reserve Balance sheet (from 2002-12-18)
 [Assets: Total Assets: Total Assets (Less Eliminations from Consolidation): Wednesday Level (WALCL)](https://fred.stlouisfed.org/series/WALCL)           
 ![Assets: Total Assets: Total Assets (Less Eliminations from Consolidation): Wednesday Level (WALCL)](https://fred.stlouisfed.org/graph/fredgraph.png?g=1c5VA)           
 
+## Japan              
+[Bank of Japan: Total Assets for Japan](https://fred.stlouisfed.org/series/JPNASSETS)                
+![Bank of Japan: Total Assets for Japan](https://fred.stlouisfed.org/graph/fredgraph.png?g=1cjHi)                
+
 ## Switzerland
 **[Balance of the Remaining Balance Sheet Positions of Swiss National Bank (SNBREMBALPOS)](https://fred.stlouisfed.org/series/SNBREMBALPOS)**        
 from 1975-01-01
