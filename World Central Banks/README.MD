@@ -6,6 +6,10 @@ Federal Reserve Balance sheet (from 2002-12-18)
 [Assets: Total Assets: Total Assets (Less Eliminations from Consolidation): Wednesday Level (WALCL)](https://fred.stlouisfed.org/series/WALCL)           
 ![Assets: Total Assets: Total Assets (Less Eliminations from Consolidation): Wednesday Level (WALCL)](https://fred.stlouisfed.org/graph/fredgraph.png?g=1c5VA)           
 
+## Euro Area
+[Central Bank Assets for Euro Area (11-19 Countries) (ECBASSETSW)](https://fred.stlouisfed.org/series/ECBASSETSW)            
+![[Central Bank Assets for Euro Area (11-19 Countries)](https://fred.stlouisfed.org/graph/fredgraph.png?g=1cjJd)             
+
 ## Japan              
 [Bank of Japan: Total Assets for Japan](https://fred.stlouisfed.org/series/JPNASSETS)                
 ![Bank of Japan: Total Assets for Japan](https://fred.stlouisfed.org/graph/fredgraph.png?g=1cjHi)                
