@@ -10,6 +10,9 @@ Federal Reserve Balance sheet (from 2002-12-18)
 [Central Bank Assets for Euro Area (11-19 Countries) (ECBASSETSW)](https://fred.stlouisfed.org/series/ECBASSETSW)            
 ![Central Bank Assets for Euro Area (11-19 Countries)](https://fred.stlouisfed.org/graph/fredgraph.png?g=1cjJd)             
 
+[Central Bank Assets for Euro Area (11-19 Countries) in Euro + U.S. Dollars to Euro Spot Exchange Rate + Central Bank Assets for Euro Area (11-19 Countries) in USD](https://fred.stlouisfed.org/graph/?g=1cjJI)       
+![Central Bank Assets for Euro Area (11-19 Countries) in Euro + U.S. Dollars to Euro Spot Exchange Rate + Central Bank Assets for Euro Area (11-19 Countries) in USD](https://fred.stlouisfed.org/graph/fredgraph.png?g=1cjJI)                
+
 ## Japan              
 [Bank of Japan: Total Assets for Japan](https://fred.stlouisfed.org/series/JPNASSETS)                
 ![Bank of Japan: Total Assets for Japan](https://fred.stlouisfed.org/graph/fredgraph.png?g=1cjJd)                
