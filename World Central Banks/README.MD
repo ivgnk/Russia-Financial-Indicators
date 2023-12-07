@@ -14,6 +14,10 @@ Monthly, CHF Millions,
 from 2002-12-01
 ![Balance of the Remaining Balance Sheet Positions of Swiss National Bank (SNBREMBALPOS)](https://fred.stlouisfed.org/graph/fredgraph.png?g=1cjrE)            
 
+[Swiss Francs to U.S. Dollar Spot Exchange Rate (DEXSZUS)](https://fred.stlouisfed.org/series/DEXSZUS)             
+from 1971-01-04
+Daily
+[Swiss Francs to U.S. Dollar Spot Exchange Rate (DEXSZUS)](https://fred.stlouisfed.org/graph/fredgraph.png?g=1cjrV)                 
 
 
 ## UK 
