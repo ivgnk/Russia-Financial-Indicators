@@ -1,4 +1,5 @@
 # World Central Banks
+note: data for creating graphs similar to [1](https://t.me/spydell_finance/4632) and [2](https://t.me/spydell_finance/4633)                
 
 ## USA
 Federal Reserve Balance sheet (from 2002-12-18)                 
