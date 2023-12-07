@@ -8,7 +8,7 @@ Federal Reserve Balance sheet (from 2002-12-18)
 
 ## Euro Area
 [Central Bank Assets for Euro Area (11-19 Countries) (ECBASSETSW)](https://fred.stlouisfed.org/series/ECBASSETSW)            
-![[Central Bank Assets for Euro Area (11-19 Countries)](https://fred.stlouisfed.org/graph/fredgraph.png?g=1cjJd)             
+![Central Bank Assets for Euro Area (11-19 Countries)](https://fred.stlouisfed.org/graph/fredgraph.png?g=1cjJd)             
 
 ## Japan              
 [Bank of Japan: Total Assets for Japan](https://fred.stlouisfed.org/series/JPNASSETS)                
