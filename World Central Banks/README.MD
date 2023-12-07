@@ -9,10 +9,10 @@ Federal Reserve Balance sheet (from 2002-12-18)
 **[Balance of the Remaining Balance Sheet Positions of Swiss National Bank (SNBREMBALPOS)](https://fred.stlouisfed.org/series/SNBREMBALPOS)**        
 from 1975-01-01
 Monthly, CHF Millions,
-[Balance of the Remaining Balance Sheet Positions of Swiss National Bank (SNBREMBALPOS)](https://fred.stlouisfed.org/graph/fredgraph.png?g=1cjrx)            
+![Balance of the Remaining Balance Sheet Positions of Swiss National Bank (SNBREMBALPOS)](https://fred.stlouisfed.org/graph/fredgraph.png?g=1cjrx)            
 
 from 2002-12-01
-[Balance of the Remaining Balance Sheet Positions of Swiss National Bank (SNBREMBALPOS)](https://fred.stlouisfed.org/graph/fredgraph.png?g=1cjrE)            
+![Balance of the Remaining Balance Sheet Positions of Swiss National Bank (SNBREMBALPOS)](https://fred.stlouisfed.org/graph/fredgraph.png?g=1cjrE)            
 
 
 
