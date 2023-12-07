@@ -8,10 +8,12 @@ Federal Reserve Balance sheet (from 2002-12-18)
 ## UK 
 [BoE research datasets](https://www.bankofengland.co.uk/statistics/research-datasets)               
 
-from 1701-01-01                                   
-[Bank of England Balance Sheet - Total Assets in the United Kingdom (BOEBSTAUKA), % GDP](https://fred.stlouisfed.org/series/BOEBSTAUKA)                      
-![Bank of England Balance Sheet - Total Assets in the United Kingdom (BOEBSTAUKA), % GDP](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bMRd)             
+from 1701-01-01                            
+Annual, % GDP           
+[Bank of England Balance Sheet - Total Assets in the United Kingdom (BOEBSTAUKA)](https://fred.stlouisfed.org/series/BOEBSTAUKA)                      
+![Bank of England Balance Sheet - Total Assets in the United Kingdom (BOEBSTAUKA)](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bMRd)             
 
 
 from 2002-01-01
+Annual, % GDP            
 ![Bank of England Balance Sheet - Total Assets in the United Kingdom, % GDP](https://fred.stlouisfed.org/graph/fredgraph.png?g=1cjqv)
