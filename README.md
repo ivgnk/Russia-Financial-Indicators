@@ -14,3 +14,13 @@ Update 2023-11-08 / November
 ### FED
 [Currency Conversions: US Dollar Exchange Rate: Average of Daily Rates: National Currency: USD for Russia](https://fred.stlouisfed.org/series/CCUSMA02RUM618N)         
 ![Currency Conversions: US Dollar Exchange Rate: Average of Daily Rates: National Currency: USD for Russia](https://fred.stlouisfed.org/graph/fredgraph.png?g=1cofG)               
+
+Total timeline
+[Currency Conversions: US Dollar Exchange Rate: Average of Daily Rates: National Currency: USD for Russia  (CCUSMA02RUM618N) + Crude Oil Prices: Brent - Europe  (DCOILBRENTEU)](https://fred.stlouisfed.org/graph/?g=1cofX)          
+![Currency Conversions: US Dollar Exchange Rate: Average of Daily Rates: National Currency: USD for Russia  (CCUSMA02RUM618N) + Crude Oil Prices: Brent - Europe  (DCOILBRENTEU)](https://fred.stlouisfed.org/graph/fredgraph.png?g=1cofX)                      
+
+From 24-02-2022
+[Currency Conversions: US Dollar Exchange Rate: Average of Daily Rates: National Currency: USD for Russia  (CCUSMA02RUM618N) + Crude Oil Prices: Brent - Europe  (DCOILBRENTEU)](https://fred.stlouisfed.org/graph/?g=1cogl)             
+![[Currency Conversions: US Dollar Exchange Rate: Average of Daily Rates: National Currency: USD for Russia  (CCUSMA02RUM618N) + Crude Oil Prices: Brent - Europe  (DCOILBRENTEU)]](https://fred.stlouisfed.org/graph/fredgraph.png?g=1cogl)            
+
+
