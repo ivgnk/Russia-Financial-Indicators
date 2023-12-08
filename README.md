@@ -10,3 +10,7 @@ Update 2023-11-08 / November
 **[Денежная база в широком определении / Monetary base in a broad definition](https://www.cbr.ru/vfs/statistics/ms/mb_bd.xlsx)**                      
 **[Денежная база (в узком определении) / Russia Monetary base (in a narrow definition)](https://www.cbr.ru/hd_base/mb_nd)**                             
 **[Денежная масса (национальное определение) / Money supply](https://www.cbr.ru/statistics/ms/)**
+
+### FED
+[Currency Conversions: US Dollar Exchange Rate: Average of Daily Rates: National Currency: USD for Russia](https://fred.stlouisfed.org/series/CCUSMA02RUM618N)         
+![Currency Conversions: US Dollar Exchange Rate: Average of Daily Rates: National Currency: USD for Russia](https://fred.stlouisfed.org/graph/fredgraph.png?g=1cofG)               
