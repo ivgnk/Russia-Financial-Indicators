@@ -43,6 +43,10 @@ The industrial production (IP) index measures the real output of all relevant es
 **[Export Price Index (End Use): Nonmonetary Gold + Global price of Copper + Global price of Aluminum](https://fred.stlouisfed.org/graph/?g=1bzW5)**
 ![Export Price Index (End Use): Nonmonetary Gold + Global price of Copper + Global price of Aluminum](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bzW5)
 
+#### Indexes
+[Import Price Index (End Use): Nonmonetary Gold  (IR14270)/Global price of Copper (PCOPPUSDM) + Import Price Index (End Use): Nonmonetary Gold  (IR14270)/Global price of Aluminum  (PALUMUSDM)](https://fred.stlouisfed.org/graph/?g=1co78)
+![Import Price Index (End Use): Nonmonetary Gold  (IR14270)/Global price of Copper (PCOPPUSDM) + Import Price Index (End Use): Nonmonetary Gold  (IR14270)/Global price of Aluminum  (PALUMUSDM)](https://fred.stlouisfed.org/graph/fredgraph.png?g=1co78)
+
 ### Precious metals
 **[CBOE Gold ETF Volatility Index](https://fred.stlouisfed.org/graph/?g=1bzVn)**                     
 ![CBOE Gold ETF Volatility Index](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bzVn)               
@@ -55,7 +59,6 @@ The industrial production (IP) index measures the real output of all relevant es
 2022-09
 [Gold from 2022-09](https://fred.stlouisfed.org/graph/?g=1bQLL)                 
 ![Gold from 2022-09](https://fred.stlouisfed.org/graph/fredgraph.png?g=1bQLL)
-
 
 ## Cryptocurrencies
 **[Coinbase Bitcoin/change from years ago + Export Price Index (End Use): Nonmonetary Gold/change from years ago](https://fred.stlouisfed.org/graph/?g=1bzYu)**            
