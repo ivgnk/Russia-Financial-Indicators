@@ -4,6 +4,7 @@ on the base of https://gist.github.com/StevenTso/557306aa74a40ef1ec5a75856e54aa7
 get gold & silver price from https://metalpriceapi.com
 https://metalpriceapi.com/documentation
 https://metalpriceapi.com/dashboard
+only 100 requests per month
 '''
 
 import requests
