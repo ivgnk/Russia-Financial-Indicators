@@ -11,6 +11,18 @@ Update 2023-11-08 / November
 **[Денежная база (в узком определении) / Russia Monetary base (in a narrow definition)](https://www.cbr.ru/hd_base/mb_nd)**                             
 **[Денежная масса (национальное определение) / Money supply](https://www.cbr.ru/statistics/ms/)**
 
+#### Inflation calculators
+❗ [calcus](https://calcus.ru/inflyaciya)            
+❗ https://www.inflationtool.com/russian-ruble
+<details>
+   <summary>Other</summary> 
+  
+https://уровень-инфляции.рф/инфляционные-калькуляторы                     
+https://t-calc.ru/cpi-calc - таблица с данными            
+https://www.statbureau.org/ru/russia/inflation-calculators               
+https://app.2lead.ru/calc_inflyaciya_cen/                
+</details>
+  
 ### FED
 [Currency Conversions: US Dollar Exchange Rate: Average of Daily Rates: National Currency: USD for Russia](https://fred.stlouisfed.org/series/CCUSMA02RUM618N)         
 ![Currency Conversions: US Dollar Exchange Rate: Average of Daily Rates: National Currency: USD for Russia](https://fred.stlouisfed.org/graph/fredgraph.png?g=1cofG)               
