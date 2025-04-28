@@ -13,8 +13,8 @@ Update 2023-11-08 / November
 
 ### Inflation calculators
 ❗ [calcus](https://calcus.ru/inflyaciya)                
-❗ https://www.inflationtool.com/russian-ruble                       
-[ENG] https://fincult.info/calc/inflation/#personal-inflation          
+❗ [ENG] https://www.inflationtool.com/russian-ruble                       
+https://fincult.info/calc/inflation/#personal-inflation          
 [ENG] https://www.in2013dollars.com/russia/inflation               
 <details>
    <summary>Other</summary> 
